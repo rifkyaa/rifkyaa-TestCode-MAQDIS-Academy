@@ -1,2 +1,6 @@
 # rifkyaa-TestCode-MAQDIS-Academy
-This Is Project for test Internship Maqdis
+Rifky Andriansyah Angela - Frontend Developer
+
+- Link soal 1:
+- Link soal 2: https://github.com/rifkyaa/rifkyaa-TestCode-MAQDIS-Academy-Dashboard
+- Link soal 3: https://github.com/rifkyaa/rifkyaa-TestCode-MAQDIS-Academy-Dashboard
